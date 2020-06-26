@@ -10,9 +10,13 @@ In this project, Convolutional Neural Networks (CNNs) will be used to correctly 
 ## File Descriptions
 
 `dog_app.ipynb` contains the code that was used in project.
+
 `bottleneck_features` will contain the files that will extract the featuers using a pretrained network.
+
 `haarcascades` contains the files needed for the face detection algorithm.
+
 `requirements` will have the needed libraries.
+
 `report.pdf` contains the findings of this project.
 
 ## Project Results
